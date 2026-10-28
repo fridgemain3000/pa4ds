@@ -48,6 +48,7 @@ Exercises within each topic folder progress from trivial one-liners to "more com
 | [`recursion/`](recursion/) | **3** | Divide-and-conquer base cases and recursive call traces |
 | [`strings/`](strings/) | **9** | Character traversal, pattern checking, and text transformations |
 | [`tuples/`](tuples/) | **5** | Immutable records, unpacking, and sequence comparisons |
+| [`lesson_15/`](lesson_15/) | **3** | In-class exercises on dictionaries and grouping (fourth one is missing) |
 
 ## Getting Started
 
